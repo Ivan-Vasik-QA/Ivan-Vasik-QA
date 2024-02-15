@@ -1,6 +1,6 @@
 ![Header](https://github.com/Ivan-Vasik-QA/Ivan-Vasik-QA/blob/9283cb659bc5c5e14686fa5edae8966cdcbc050c/assets/aristotle3-2x.jpg)
 
-## "Quality means doing it right when no one is looking".             Henry Ford
+## "Quality is not an act, it is a habit".             Aristotle
 
 ### Portfolio
 <!-- BLOG-POST-LIST:START -->
